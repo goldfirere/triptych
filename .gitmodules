@@ -1,6 +1,6 @@
 [submodule "effects/effects"]
 	path = effects/effects
-	url = ../effects/
+	url = git://github.com/goldfirere/effects.git
 [submodule "dependent-db"]
 	path = dependent-db
-	url = ../dependent-db/
+	url = git://github.com/goldfirere/dependent-db.git
