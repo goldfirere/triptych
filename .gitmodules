@@ -1,0 +1,6 @@
+[submodule "effects/effects"]
+	path = effects/effects
+	url = ../effects/
+[submodule "dependent-db"]
+	path = dependent-db
+	url = ../dependent-db/
